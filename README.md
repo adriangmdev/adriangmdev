@@ -5,7 +5,6 @@ Desarrollo webs modernas con estética premium para marcas que quieren destacar.
 ## Lo que construyo
 
 - Webs completas con Next.js y React
-- Diseño web oscuro y cinematográfico
 - Integración de funcionalidades con IA
 - Aplicaciones web con base de datos
 
@@ -21,7 +20,7 @@ Next.js · React · TypeScript · Tailwind · Supabase · Vercel
 
 ## Contacto
 
-adriruben7830@gmail.com · [mork-web.vercel.app](https://mork-web.vercel.app)
+adriruben7830@gmail.com · 
 
 <!--
 **adriangmdev/adriangmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
