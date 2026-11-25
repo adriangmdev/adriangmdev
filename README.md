@@ -1,38 +1,24 @@
-# Adrián González — Web Developer & Digital Designer
+# Adrián González Martínez
 
-Desarrollo webs modernas con estética premium para marcas que quieren destacar.
+Desarrollo web e IA aplicada · Reus (Tarragona)
 
-## Lo que construyo
+## Qué hago
 
-- Webs completas con Next.js y React
-- Integración de funcionalidades con IA
-- Aplicaciones web con base de datos
+- Webs para clientes reales con Next.js y Tailwind.
+- Auditorías de SEO técnico: robots.txt, sitemaps multiidioma, datos estructurados y Open Graph.
+- Apps con la API de Claude, con chat y análisis de imágenes.
+- Uso Claude Code a diario como herramienta de desarrollo.
 
 ## Stack
 
-Next.js · React · TypeScript · Tailwind · Supabase · Vercel
+Next.js · TypeScript · Tailwind · Supabase · Vercel · Git y GitHub · Claude API
 
-## Proyectos reales
+## Proyectos
 
-- **MØRK Studio** — Agencia de diseño web premium
-- **Muay Khao Reus** — Web para gimnasio de Muay Thai
-- **FitCoach** — App de nutrición con IA
+**FitCoach AI.** App que estima los macros de una comida a partir de una foto con la API de Claude. Código en preparación.
+
+**Muay Khao Reus.** Web real de un gimnasio de Muay Thai, con SEO técnico y dominio propio: https://muaykhaoreus.com
 
 ## Contacto
 
-adriruben7830@gmail.com · 
-
-<!--
-**adriangmdev/adriangmdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+adriruben7830@gmail.com · https://www.linkedin.com/in/adriangmdev/
